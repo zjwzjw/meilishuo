@@ -1,0 +1,160 @@
+	*{
+		margin: 0;
+		padding: 0;
+	}
+	a{
+		text-decoration: none;
+	}
+	#top{
+		width: 1349px;
+		height: 30px;
+		background: #F8F8F8;
+	}
+	.inner{
+		width: 1200px;
+		height: 30px;
+		margin:0 auto;
+		position: relative;
+	}
+	.inner ul{
+		position: absolute;
+		color: #666;
+	    font-size: 12px;
+	    font-family: Arial,'Microsoft YaHei';
+		text-align: right;
+		float: right;
+		margin-left: 300px;
+
+
+	 }
+	.inner li{
+		width: 100px;
+		height:20px;
+		line-height: 30px;
+		list-style: none;
+		float:left;
+		
+	}
+	#search{
+		width: 1349px;
+		height: 120px;
+		/*background: #000;*/
+		/*position: relative;*/
+
+	}
+	#search .sou{
+		width: 1200px;
+		height: 120px;
+		position: relative;
+		margin: 0 auto;
+
+	}
+	.sou img{
+		position: absolute;
+		margin-top: 40px;
+
+	}
+	.sousuo{
+		width: 520px;
+	    position: absolute;
+	    top: 21px;
+	    left: 50%;
+	    margin-left: -240px;
+	}
+	#search span{
+		width:56px;
+		height:24px;
+		line-height:24px;
+		background-color: #f2f2f2;
+		font-size: 12px;
+		display: inline-block;
+		text-align: center;
+		cursor: pointer;
+		color:#666;
+	}
+	#search-tab .active{
+		background: #ff3366;
+		color: #fff;
+	}
+	#search-box{
+		width: 520px;
+		height: 30px;
+		/*position: relative;*/
+		margin: 0 auto;
+		
+	}
+	#search-box .txt{
+		width: 520px;
+		height: 30px;
+		float: left;
+	    border: 2px solid #FF3366;
+	    width: 437px;
+	    line-height: 28px;
+	    height: 28px;
+	    padding: 0;
+	    margin: 0;
+	    padding-left: 8px;
+
+	}
+	#search-btn{
+	float: left;
+    width: 70px;
+    height: 32px;
+    line-height: 32px;
+	text-align:center;
+    background: #ff3366;
+ /*   display:inline-block;*/
+    cursor: pointer;
+	}
+	#hotword{
+		width: 520px;
+		height: 29px;
+	}
+	#hotword a{
+		font-size: 12px;
+		color:#666;
+	}
+	.erweima{
+		width: 210px;
+		height: 157px;
+		display: inline-block;
+		float: right;
+		margin-top: -35px;
+	}
+	.nav-mian{
+		width: 1349px;
+		height: 40px;
+	}
+	.nav{
+		width: 1200px;
+		height: 40px;
+		margin: 0 auto;
+		
+	}
+	.nav li{
+		
+		float: left;
+		list-style: none;
+		font-size: 14px;
+	    line-height: 40px;
+    	text-align: center;
+    	color:#666;
+	}
+	ul .all{
+		width: 285px; 
+		height: 40px;
+		background-color: #ff3366;
+	    color: #fff;
+	    margin-left: 0;
+	    margin-right: 40px;
+	}
+	ul .guide{
+		height: 40px;
+		line-height: 40px;
+		margin: 0 40px;
+		font-size: 14px;
+		color: #666;
+	}
+
+
+	
